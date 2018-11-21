@@ -1,6 +1,4 @@
 # Retail Calculator
 
-## Installation
-
-## Configuration
+## How to run
 
