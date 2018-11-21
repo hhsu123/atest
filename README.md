@@ -1,15 +1,14 @@
 # Retail Calculator
 ## User Story: 
-- As a retailer I can input the quantity, the unit price and my state code, so that the calculator can show me the total price.
+- As a retailer I can input my state code, the quantity and the unit price of certain product, so that the calculator can show me the total price accordingly. 
 
 ### Tasks:
 1. 
 2. 
 3. 
 
-## How to use
-- installation
+## Customer Manuel
+1. How to use the tool
 - 
 
-
-
+## 
