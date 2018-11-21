@@ -9,7 +9,9 @@ _Questions to understand the MVP, and the scope of this assignment_
 ## thoughts about overall approaches:
 - 
   -> minimum set of required user interaction -> key function(s) to achieve sunny day scenario 
+- 
   -> MVP user interaction -> MVP function(s) 
+- 
   -> usability -> robust code
 
 
