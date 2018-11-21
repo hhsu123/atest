@@ -11,11 +11,8 @@ _Questions to understand the MVP, and the scope of this assignment_
   -> minimum set of required user interaction -> key function(s) to achieve sunny day scenario 
 - 
   -> MVP user interaction -> MVP function(s) 
-- 
-  -> usability -> robust code
 
 
 ### Tasks:
-1. A compoment for user to select 1 state out of the 5.  
-2. A compoment for user to input 
-3. 
+1. a function to take in command line input and respond with calculated result
+2. 
