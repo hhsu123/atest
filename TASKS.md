@@ -10,9 +10,19 @@ _Questions to understand the MVP, and the scope of this assignment_
 - 
   -> minimum set of required user interaction -> key function(s) to achieve sunny day scenario 
 - 
-  -> MVP user interaction -> MVP function(s) 
+  -> MVP user interaction -> function(s) for MVP sunny day scnearios
+- 
+  -> MVP userability -> function(s) for MVP usability including rainy day scnearios etc.
 
 
 ### Tasks:
-1. a function to take in command line input and respond with calculated result
-2. 
+- a basic script to take in command line input for the 3 factors, and respond with calculated result in command line.
+- a component to input the quantity
+- a component to input the unit price
+- a component to select 2-letter state code
+- a component to display the calculated result
+
+
+
+
+
